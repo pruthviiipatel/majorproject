@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.nii
+*.nii.gz
+*.zip
+*.tar
+*.csv
+dataset/
+node_modules/
+.DS_Store
+HiSeqV2
