@@ -13,3 +13,4 @@ dataset/
 node_modules/
 .DS_Store
 HiSeqV2
+*.exe
